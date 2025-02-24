@@ -1,8 +1,8 @@
-# 🎬 YouTube Video Manager
+# YouTube Video Manager
 
 A simple **command-line application** to **manage YouTube videos** by adding, listing, updating, and deleting video records along with their durations. Data is stored in a JSON-based text file for persistence.
 
-## 📌 Features
+## Features
 
 ✅ List all saved YouTube videos  
 ✅ Add a new YouTube video with its duration  
@@ -10,13 +10,13 @@ A simple **command-line application** to **manage YouTube videos** by adding, li
 ✅ Delete a video from the list  
 ✅ Data persistence using a `youtube.txt` file  
 
-## 🛠️ Installation
+## Installation
 
-1. **Clone this repository** [(https://github.com/deepak-jha-2003/youtube_Manager)].
+1. **Clone this repository** : https://github.com/deepak-jha-2003/youtube_Manager.
 2. **Ensure you have Python installed** (version `3.x` recommended).
 3. **No external dependencies needed** – just run the script!
 
-## 🚀 Usage
+## Usage
 
 1. Run the script:
    ```sh
@@ -27,8 +27,12 @@ YouTube Manager | Choose an option
 3. Update a YouTube video details
 4. Delete a YouTube video
 5. Exit the app
+   
 📁 YouTube Video Manager
+
 │── 📜 youtube_manager.py  # Main Python script
+
 │── 📜 youtube.txt         # Stores video data (auto-created)
+
 │── 📜 README.md           # Project documentation
 
