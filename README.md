@@ -12,7 +12,7 @@ A simple **command-line application** to **manage YouTube videos** by adding, li
 
 ## 🛠️ Installation
 
-1. **Clone this repository** (or create a new Python file and copy the code).
+1. **Clone this repository** [(https://github.com/deepak-jha-2003/youtube_Manager)].
 2. **Ensure you have Python installed** (version `3.x` recommended).
 3. **No external dependencies needed** – just run the script!
 
